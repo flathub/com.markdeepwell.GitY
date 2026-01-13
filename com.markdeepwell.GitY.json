@@ -9,7 +9,6 @@
   ],
   "finish-args": [
     "--device=dri",
-    "--filesystem=home",
     "--share=ipc",
     "--socket=fallback-x11",
     "--socket=wayland"
@@ -32,8 +31,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/deepwell/gity/archive/refs/tags/v0.3.1.tar.gz",
-          "sha256": "6a34829cf9d616b33c1ea723a57bbeb41c56ce017fc00d98b751957ecf09d477",
+          "url": "https://github.com/deepwell/gity/archive/refs/tags/v0.4.0.tar.gz",
+          "sha256": "ea1f49653fd341ef4739e0a8b06cbccf3d3ffef832f71ae79245d3991433b93f",
           "strip-components": 1
         },
         "cargo-sources.json"
