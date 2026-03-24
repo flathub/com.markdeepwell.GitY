@@ -1,7 +1,7 @@
 {
   "app-id": "com.markdeepwell.GitY",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "49",
+  "runtime-version": "50",
   "sdk": "org.gnome.Sdk",
   "command": "gity",
   "sdk-extensions": [
@@ -31,8 +31,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/deepwell/gity/archive/refs/tags/v0.5.1.tar.gz",
-          "sha256": "899e573ba859ece8acd07cfc2bc7eff1c95b86c2b3d7d91445a37fae5b9ae763"
+          "url": "https://github.com/deepwell/gity/archive/refs/tags/v0.5.2.tar.gz",
+          "sha256": "a91b4219711f2f631fd6176587bdc4417beb114cc3204bb4e6bb59cfd4cc3563"
         },
         "cargo-sources.json"
       ]
