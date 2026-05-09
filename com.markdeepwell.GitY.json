@@ -31,8 +31,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/deepwell/gity/archive/refs/tags/v0.5.2.tar.gz",
-          "sha256": "a91b4219711f2f631fd6176587bdc4417beb114cc3204bb4e6bb59cfd4cc3563"
+          "url": "https://github.com/deepwell/gity/archive/refs/tags/v2026.1.tar.gz",
+          "sha256": "20e27c0e580f18ec76b38f73bca66e8073bc0616561ba48c698bfd727e4d260e"
         },
         "cargo-sources.json"
       ]
