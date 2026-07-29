@@ -32,7 +32,14 @@
         {
           "type": "archive",
           "url": "https://github.com/deepwell/gity/archive/refs/tags/v2026.4.tar.gz",
-          "sha256": "77db0cb82917bb6fca7f0fc971a2e144cff9a5b166e12c4bee28f82dc90d42df"
+          "sha256": "77db0cb82917bb6fca7f0fc971a2e144cff9a5b166e12c4bee28f82dc90d42df",
+          "x-checker-data": {
+            "type": "json",
+            "url": "https://api.github.com/repos/deepwell/gity/releases/latest",
+            "version-query": ".tag_name | sub(\"^v\"; \"\")",
+            "url-query": "\"https://github.com/deepwell/gity/archive/refs/tags/v\" + $version + \".tar.gz\"",
+            "is-main-source": true
+          }
         },
         "cargo-sources.json"
       ]
