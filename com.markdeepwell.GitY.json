@@ -31,8 +31,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/deepwell/gity/archive/refs/tags/v2026.4.tar.gz",
-          "sha256": "77db0cb82917bb6fca7f0fc971a2e144cff9a5b166e12c4bee28f82dc90d42df",
+          "url": "https://github.com/deepwell/gity/archive/refs/tags/v2026.5.tar.gz",
+          "sha256": "0ade867470c6343ab1dd0e239f645acec1ac189cff800f758d65a150fcbc582b",
           "x-checker-data": {
             "type": "json",
             "url": "https://api.github.com/repos/deepwell/gity/releases/latest",
